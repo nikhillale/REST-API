@@ -1,0 +1,6 @@
+{
+    "env":{
+        "Mongo_pass": "nikhil",
+        "JWT_kEY" : "secret"
+    }
+}
